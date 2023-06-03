@@ -8,3 +8,4 @@ Apo autorun is to put on the keys to allow autorun on every computer
 If anyone has some good batch command i'll be happy to learn them
 
 
+https://img.shields.io/github/watchers/Kaiwinta/Usb-Keys-code?style=social
