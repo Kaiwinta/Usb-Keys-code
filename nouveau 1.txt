@@ -1,5 +1,0 @@
-@echo off
-set "shortcutPath=C:\path\to\shortcut.lnk"
-set "destinationFolder=C:\path\to\destination"
-
-move "%shortcutPath%" "%destinationFolder%"
